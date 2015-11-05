@@ -1,0 +1,23 @@
+name: disrupt
+favicon: null
+layout_spectrum: 0.655018099816516
+typography_spectrum: 0.31679248390719295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.31585783092305064
+  lightness: 0.5162011405918747
+  saturation: 0.8504687717650086
+  rhythmicContrast: 0.6414030429441482
+purpose: []
